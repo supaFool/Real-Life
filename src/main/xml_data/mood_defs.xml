@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Items are anything in-game that is obtainable by player-->
+<mood_props>
+    <mood>
+        <happy>
+            <desc>
+                "Feeling Good"
+            </desc>
+        </happy>
+        <sad>
+            <desc>
+                "Feeling Depressed"
+            </desc>
+        </sad>
+        <angry>
+            <desc>
+                "Feeling Mad"
+            </desc>
+        </angry>
+    </mood>
+</mood_props>
